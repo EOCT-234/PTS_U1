@@ -1,8 +1,11 @@
 ---
-title: "portada"
-author: "grupo_1"
-format: html
-editor: visual
+title: "Producción y Tecnología de Semillas"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: true
 ---
 
 #GENERALIDADES SOBRE LAS SEMILLAS: SU PRODUCCIÓN, CONSERVACIÓN Y ALMACENAMIENTO
