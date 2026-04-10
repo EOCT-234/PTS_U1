@@ -1,19 +1,17 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Mi Primera Página Web"
+  title: "Semillitas"
   navbar:
     left:
       - href: index.qmd
-        text: Inicio
-      - href: about.qmd
-        text: Sobre mí
-      - href: contacto.qmd
-        text: Contacto
+        text: Portada
+      - href: introduccion.qmd
+        text: Introducción
 
 format:
   html:
-    theme: minty
-    css: styles.css
+    theme: cosmo
     toc: true
