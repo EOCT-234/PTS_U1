@@ -1,9 +1,12 @@
 ---
-title: "conclusiones"
-format: html
-editor: visual
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
 ---
 
-## Conclusiones
+# Conclusiones
 
 En la actualidad, el acervo del BNGA es de 2940 accesiones, con amplia diversidad genética, de las cuales se han entregado desde su establecimiento, 2525 genotipos (85.8 %) a programas de investigación de arroz del INIFAP correspondientes a los diferentes sistemas de cultivo que han contribuido al desarrollo y liberación de nuevas variedades de este cereal en México. Este germoplasma se encuentra resguardado en el BNGA y está a disposición de los investigadores para que pueda ser utilizado en los programas de la mejora genética para la generación de variedades que coadyuven a contrarrestar los efectos del cambio climático.

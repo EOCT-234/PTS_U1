@@ -1,10 +1,13 @@
 ---
-title: "referencias"
-format: html
-editor: visual
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
 ---
 
-## Referencias
+# Referencias
 
 **Acevedo A. M., W. Castrillo A. and U. Belmonte C. (2006)** Rice origin, evolution and diversity. *Agronomía Tropical* 56:151-170. \[ [Links](javascript:void(0);) \]
 

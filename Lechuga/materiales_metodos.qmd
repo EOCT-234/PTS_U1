@@ -1,10 +1,13 @@
 ---
-title: "materiales_metodos"
-format: html
-editor: visual
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
 ---
 
-## Materiales y métodos
+# Materiales y métodos
 
 El Campo Experimental Zacatepec del INIFAP, desde el año 1940,
 
