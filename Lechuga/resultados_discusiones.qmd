@@ -1,0 +1,11 @@
+---
+title: "resultados_discusiones"
+format: html
+editor: visual
+---
+
+## Resultados y discusiones
+
+Los trabajos de selección en estaciones experimentales han incrementado considerablemente la riqueza varietal. Generalmente, los métodos utilizados han sido la selección por línea pura, que ha permitido obtener cultivares superiores, mientras que la hibridación y posterior selección de líneas formadas a partir de poblaciones segregantes constituye el método moderno más usado para obtener nuevas variedades ^[(León,\ 2000)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-73802023000400461#B11)^.
+
+En la actualidad, el acervo del BNGA es de 2940 accesiones [(Cuadro 1)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-73802023000400461#t1) todos con datos de pasaporte y caracterización morfológica. El acervo está integrado principalmente por materiales pertenecientes a la especie *O. sativa,* tanto Indicas como Japónicas, así como algunos genotipos generados por cruzas interespecíficas entre *O*. *sativa* L. y *O. glaberrima* Steud., y dos accesiones de la especie silvestre *O. latifolia* Desv.ing of code (only output is displayed).

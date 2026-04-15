@@ -1,0 +1,19 @@
+---
+title: "referencias"
+format: html
+editor: visual
+---
+
+## Referencias
+
+**Acevedo A. M., W. Castrillo A. and U. Belmonte C. (2006)** Rice origin, evolution and diversity. *Agronomía Tropical* 56:151-170. \[ [Links](javascript:void(0);) \]
+
+**Aguirre A. E., J. J. Wong P., L. Tavitas F. y C. E. Bautista P. (2013)** Aztecas, variedad de arroz de grano largo delgado para el sur de Tamaulipas. Folleto técnico No. MX-0-310301-52-03-14-09-31. Campo experimental Las Huastecas, INIFAP. Villa Cuauhtémoc, Tamaulipas, México. 31 p. \[ [Links](javascript:void(0);) \]
+
+**Barrios G. E. J., L. Hernández A., L. Tavitas F., M. Hernández A. y J. Canul K. (2020)** Morelos A2016: variedad de arroz de grano grueso. *Revista Mexicana de Ciencias Agrícolas* 9:1547-1552, https://doi.org/10.29312/remexca.v9i7.680 \[ [Links](javascript:void(0);) \]
+
+**Barrón C. E. (2011)** Programa de Documentación de Casos de Éxito. Innovación para Aumentar la Productividad del Sistema Producto Arroz en Morelos. Unión de Sociedades de Producción Rural “Arroceros Oriente de Morelos”. IICA-COFUPRO. México, D. F. 82 p. \[ [Links](javascript:void(0);) \]
+
+**Bioversity International, IRRI y AfricaRice (2011)** Descriptores para arroz silvestre e cultivado (*Oryza* spp.). Bioversity International. Roma, Italia; International Rice Research Institute, Los Baños, Filipinas; AfricaRice, Cotonou, Benin. 66 p. \[ [Links](javascript:void(0);) \]
+
+**Calderón G. B. J. y E. Frías S. (2020)** A

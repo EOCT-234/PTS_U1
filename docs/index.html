@@ -3,13 +3,15 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Lechuga</title>
+<title>Germinación</title>
 
 <style>
 body {
-  margin: 0.2;
-  font-family: Arial, sans-serif;
-  background: #e5e5e5;
+  margin: 0;
+  font-family: Tinos, Tinos;
+  background: #e8f5ec;
+  font-size: 12px;
+  
 }
 
 /* Layout general */
@@ -21,18 +23,18 @@ body {
 
 /* Sidebar izquierda (fuera del azul) */
 .sidebar {
-  width: 300px;
-  background: #8aacbf;
+  width: 200px;
+  background: #138a4a;
   padding: 5px;
 }
 
 .sidebar h3 {
-  background: #d9d9d9;
+  background: #138a4a;
   padding: 5px;
 }
 
 .box {
-  background: #d9d9d9;
+  background: #138a4a;
   padding: 5px;
   margin: 5px 0;
 }
@@ -40,14 +42,14 @@ body {
 /* Zona derecha (azul) */
 .main-area {
   flex: 1;
-  background: #1f5f75;
+  background: #0b4d3b;
   display: flex;
   flex-direction: column;
 }
 
 /* Barra superior */
 .top-bar {
-  background: #1f5f75;
+  background: #06402b;
   padding: 5px;
   display: flex;
   align-items: center;
@@ -57,7 +59,7 @@ body {
 
 /* Menú */
 .menu a {
-  background: #00000000;
+  background: #06402b;
   color: white;
   padding: 5px;
   margin: 5px;
@@ -73,10 +75,10 @@ body {
 
 /* Caja blanca */
 .paper {
-  background: #f5f5f5;
+  background: #f3f8f4;
   padding: 10px;
   width: 100%;
-  min-height: 67vh;
+  min-height: 75vh;
   box-sizing: border-box;
 }
 
@@ -99,12 +101,13 @@ h2 {
 
   <!-- COLUMNA IZQUIERDA -->
   <aside class="sidebar">
-    <h3>INFORMACIÓN</h3>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png" width="50">
+    <h3></h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png" width="70">
     
-  <img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/482353884_1212799467215916_7704349276045266385_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeGHYWXF8kjqb7cMeFY-aIGbG2OUkVtACEgbY5SRW0AISA1zI_4IbZCPrcUiIzF6MquGO9P2Q7lTZC-oxWK232c0&_nc_ohc=aaRGydSHS_cQ7kNvwGm-gYs&_nc_oc=Adp3ile00PsrdzFtP61yqD64j3SCn9sgeP1E9Ol5X4o9p0dXFnmyLZ-CL7UACCugyyqWffZwPP5Yc2RWdUDUmE1w&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=EZAZHRD9UMDeY7yS92IOAQ&_nc_ss=7a3a8&oh=00_Af0BV9XkdnO3dVBETCMFyi3C9jlfx5jy-mhdhebg581OPA&oe=69E1E24B" width="50">
+  <img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/482353884_1212799467215916_7704349276045266385_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=53a332&_nc_eui2=AeGHYWXF8kjqb7cMeFY-aIGbG2OUkVtACEgbY5SRW0AISA1zI_4IbZCPrcUiIzF6MquGO9P2Q7lTZC-oxWK232c0&_nc_ohc=aaRGydSHS_cQ7kNvwGm-gYs&_nc_oc=Adp3ile00PsrdzFtP61yqD64j3SCn9sgeP1E9Ol5X4o9p0dXFnmyLZ-CL7UACCugyyqWffZwPP5Yc2RWdUDUmE1w&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=EZAZHRD9UMDeY7yS92IOAQ&_nc_ss=7a3a8&oh=00_Af0BV9XkdnO3dVBETCMFyi3C9jlfx5jy-mhdhebg581OPA&oe=69E1E24B" width="70">
 
+      <h3 style= "font-size:18px; color: #222;"> INFORMACIÓN</h3>
     <div class="box">CURSO: Producción y tecnología de semillas</div>
     <div class="box">DOCENTE: Flavio Lozano Isla</div>
     <div class="box">INTEGRANTES DEL GRUPO:
@@ -116,7 +119,7 @@ h2 {
     </div>
 
 
-<h3>MATERIAL COMPLEMENTARIO</h3>
+<h3  style= "font-size:18px; color: #222;"> MATERIAL COMPLEMENTARIO</h3>
 
 <div class="box">
 
@@ -162,15 +165,24 @@ h2 {
 
     <header class="top-bar">
 
-  <h1>Germinación de semillas de lechuga expuestas a condiciones con luz y sin luz</h1>
+  <h1 style= "font-size:28px; color:  #ffffff;">Germinación de semillas de lechuga expuestas a condiciones con luz y sin luz</h1>
 
-  <nav class="menu">
-    <a href="#introduccion">Introducción</a>
-    <a href="#materiales">Materiales y métodos</a>
-    <a href="#metodologia">Resultado y discusiones</a>
-    <a href="#conclusiones">Conclusiones</a>
-    <a href="#bibliografia">Referencias</a>
-  </nav>
+  <nav class="menu" style="text-align:center;">
+
+  <!-- FILA 1 -->
+  <div>
+    <a href="#introduccion" style="font-size:14px; color:#e8f5ec; margin-right:15px;">Introducción</a>
+    <a href="#materiales" style="font-size:14px; color:#e8f5ec; margin-right:15px;">Materiales y métodos</a>
+    <a href="#metodologia" style="font-size:14px; color:#e8f5ec;">Resultado y discusiones</a>
+  </div>
+
+  <!-- FILA 2 -->
+  <div style="margin-top:5px;">
+    <a href="#conclusiones" style="font-size:14px; color:#e8f5ec; margin-right:15px;">Conclusiones</a>
+    <a href="#bibliografia" style="font-size:14px; color:#e8f5ec;">Referencias</a>
+  </div>
+
+</nav>
 
 </header>
 
