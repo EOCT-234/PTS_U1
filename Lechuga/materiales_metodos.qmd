@@ -9,16 +9,42 @@ format:
 
 # Materiales y métodos
 
-El Campo Experimental Zacatepec del INIFAP, desde el año 1940,
+## Materiales: 
 
-antes de la creación del BNGA, generó variedades de arroz para cultivos de riego por trasplante, como Jojutla Mejorado,
+-   Papel toalla
 
-Morelos A70, Morelos A92, Morelos A98, Morelos A2010 y Morelos A16; con excepción de las dos primeras, las cuatro restantes se caracterizan porque poseen los genes de semi-enanismo *sd-1* y *sd-2*
+-   Papel aluminio
 
-para altura intermedia. Los rendimientos de las cinco últimas variedades son altos, ya que producen de 10 a 12 t ha^-1^,
+-   Jeringa
 
-mientras que sus granos se caracterizan por presentar longitudes mayores de 7.6 mm y una anchura de 2.2 mm, clasificándose como extra-largos y oblongos con 20 % de ‘panza blanca’ y por sus c
+-   Agua mineral
 
-aracterísticas culinarias a Morelos A92, Morelos A98 y Morelos A2010, que en 2012 se les otorgó la denominación de origen, considerándoseles como “el mejor arroz del mundo”.
+-   Pinzas
 
-En el año 1963 el
+-   Cinta scotch
+
+-   Ligas
+
+-   Regla
+
+-   Tijera
+
+-   Etiquetas
+
+-   Laptop
+
+-   Recipientes (tapers)
+
+-   Semillas de lechuga (*Lactuca sativa* L.)
+
+## Metodología
+
+Se evaluó la germinación de semillas de lechuga (*Lactuca sativa L.),* bajo condiciones controladas (Sin luz y Con luz), utilizando un diseño completamente al azar (DCA) con 2 tratamiento y 6 repeticiones (12 unidades experimentales)
+
+Cada unidad experimental consistió en un recipiente de plástico limpio y papel toalla humedecido con agua destilada colocado en el fondo del taper. Se colocaron 25 semillas, distribuidas de forma uniforme. Los recipientes fueron identificados con etiquetas y los recipientes sin luz se cubrieron con papel aluminio.
+
+Las unidades experimentales se mantuvieron cerradas para conservar humedad y se hizo evaluación por cinco días. Las observaciones diarias se anotaron en el libro de campo.
+
+![](images/metdología.png)
+
+**Figura 1:** *Procedimiento empleado para inicio de análisis de germinación.*
