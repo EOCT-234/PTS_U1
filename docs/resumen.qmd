@@ -1,0 +1,12 @@
+---
+format:
+  html:
+    mainfont: Tinos
+    title-block-banner: false
+    toc: false
+    number-sections: false
+---
+
+# Resumen gráfico
+
+![](images/resumen.png)
