@@ -7,6 +7,4 @@ format:
     number-sections: false
 ---
 
-# Resumen gráfico
-
 ![](images/resumen.png)
