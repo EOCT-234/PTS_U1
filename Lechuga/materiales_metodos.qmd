@@ -37,7 +37,7 @@ format:
 
 -   Semillas de lechuga (*Lactuca sativa* L.)
 
-## Metodología
+## Metodología:
 
 Se evaluó la germinación de semillas de lechuga (*Lactuca sativa L.),* bajo condiciones controladas (Sin luz y Con luz), utilizando un diseño completamente al azar (DCA) con 2 tratamiento y 6 repeticiones (12 unidades experimentales)
 

@@ -9,14 +9,28 @@ format:
 
 # Referencias
 
-**Acevedo A. M., W. Castrillo A. and U. Belmonte C. (2006)** Rice origin, evolution and diversity. *Agronomía Tropical* 56:151-170. \[ [Links](javascript:void(0);) \]
+Batlla, D., & Benech-Arnold, R. L. (2010). Predicting changes in dormancy level in natural seed soil banks. *Plant Molecular Biology*, *73*(1-2), 3-13. [https://doi.org/10.1007/s11103-010- 9601-z](https://doi.org/10.1007/s11103-010-9601-z)
 
-**Aguirre A. E., J. J. Wong P., L. Tavitas F. y C. E. Bautista P. (2013)** Aztecas, variedad de arroz de grano largo delgado para el sur de Tamaulipas. Folleto técnico No. MX-0-310301-52-03-14-09-31. Campo experimental Las Huastecas, INIFAP. Villa Cuauhtémoc, Tamaulipas, México. 31 p. \[ [Links](javascript:void(0);) \]
+Bewley, J. D., Bradford, K. J., Hilhorst, H. W. M., & Nonogaki, H. (2013). *Seeds: Physiology of development, germination and dormancy (3rd ed.).* . Springer New York. <https://doi.org/10.1007/978-1-4614-4693-4>
 
-**Barrios G. E. J., L. Hernández A., L. Tavitas F., M. Hernández A. y J. Canul K. (2020)** Morelos A2016: variedad de arroz de grano grueso. *Revista Mexicana de Ciencias Agrícolas* 9:1547-1552, https://doi.org/10.29312/remexca.v9i7.680 \[ [Links](javascript:void(0);) \]
+Borthwick, H. A., Hendricks, S. B., Parker, M. W., Toole, E. H., & Toole, V. K. (1952). A Reversible Photoreaction Controlling Seed Germination. *Proceedings of the National Academy of Sciences*, *38*(8), 662-666. <https://doi.org/10.1073/pnas.38.8.662>
 
-**Barrón C. E. (2011)** Programa de Documentación de Casos de Éxito. Innovación para Aumentar la Productividad del Sistema Producto Arroz en Morelos. Unión de Sociedades de Producción Rural “Arroceros Oriente de Morelos”. IICA-COFUPRO. México, D. F. 82 p. \[ [Links](javascript:void(0);) \]
+Bradford, K. J. (2002). Applications of hydrothermal time to quantifying and modeling seed germination and dormancy. *Weed Science*, *52*(2), 248-260. https://doi.org/https://doi.org/10.1614/0043-1745(2002)050\[0248:AOHTTQ\]2.0.CO;2
 
-**Bioversity International, IRRI y AfricaRice (2011)** Descriptores para arroz silvestre e cultivado (*Oryza* spp.). Bioversity International. Roma, Italia; International Rice Research Institute, Los Baños, Filipinas; AfricaRice, Cotonou, Benin. 66 p. \[ [Links](javascript:void(0);) \]
+Finch‐Savage, W. E., & Leubner‐Metzger, G. (2006). Seed dormancy and the control of germination. *New Phytologist*, *171*(3), 501-523. <https://doi.org/10.1111/j.1469-8137.2006.01787.x>
 
-**Calderón G. B. J. y E. Frías S. (2020)** A
+Hernández-Herrera, R. M., Santacruz-Ruvalcaba, F., Ruiz-López, M. A., Norrie, J., & Hernández-Carmona, G. (2014). Effect of liquid seaweed extracts on growth of tomato seedlings (*Solanum lycopersicum* L.). *Journal of Applied Phycology*, *26*(1), 619-628. <https://doi.org/10.1007/s10811-013-0078-4>
+
+Lemos Neto, H. D. S., Guimarães, M. D. A., Silva, B. D. N., & Medeiros Filho, S. (2018). Germinación y emergencia de lechuga a temperaturas elevadas. *Revista Colombiana de Ciencias Hortícolas*, *12*(3), 677-684. https://doi.org/10.17584/rcch.2018v12i3.7720
+
+Nascimento, W. M., & Cantliffe, D. J. (2002). Germinação de sementes de alface sob altas temperaturas. *Horticultura Brasileira*, *20*(1), 103-106. <https://doi.org/10.1590/S0102-05362002000100020>
+
+Quail, P. H. (2002). Phytochrome photosensory signalling networks. *Nature Reviews Molecular Cell Biology*, *3*(2), 85-93. <https://doi.org/10.1038/nrm728>
+
+Rodríguez-Quilón, I., Adam, G., & Durán, J. (2008). Ensayos de germinación y análisis de viabilidad y vigor en semillas. *Semillas hortícolas*, 836-838. <https://orbi.uliege.be/bitstream/2268/37372/1/articulo%20definitivo%20agricultura%20nov.pdf>
+
+Rosabal, L., Martínez, L., Yanelis, R., Dell’Amico, J., & Núñez, M. (2014). ReviewPhysiological, biochemistry and gene expression aspects in water stress.Influence in the germination process. *Cultivos tropicales*, *35*(3), 24-35. <http://scielo.sld.cu/pdf/ctr/v35n3/ctr03314.pdf>
+
+Suárez, D., & Melgarejo, L. (2010). Biología y germinación de semillas. *Experimentos en fisiología vegetal*, 13-25. <https://scholar.google.com/citations?view_op=view_citation&hl=es&user=uirNabYAAAAJ&citation_for_view=uirNabYAAAAJ:XiSMed-E-HIC>
+
+Yanniccari, M., Tambussi, E., Istilart, C., & Castro, A. M. (2012). Glyphosate effects on gas exchange and chlorophyll fluorescence responses of two Lolium perenne L. biotypes with differential herbicide sensitivity. *Plant Physiology and Biochemistry*, *57*, 210-217. <https://doi.org/10.1016/j.plaphy.2012.05.027>
